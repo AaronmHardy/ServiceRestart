@@ -1,0 +1,13 @@
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\ServiceRestart.exe.config
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\ServiceRestart.exe
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\ServiceRestart.pdb
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\System.Security.Permissions.dll
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\obj\Debug\ServiceRestart.csprojAssemblyReference.cache
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\obj\Debug\ServiceRestart.csproj.CoreCompileInputs.cache
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\obj\Debug\ServiceRestart.csproj.CopyComplete
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\obj\Debug\ServiceRestart.exe
+C:\Users\AaronH\source\repos\ServiceRestart\ServiceRestart\obj\Debug\ServiceRestart.pdb
